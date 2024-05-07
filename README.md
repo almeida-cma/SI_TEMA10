@@ -15,3 +15,6 @@ https://revistapegn.globo.com/Mulheres-empreendedoras/noticia/2022/03/empreended
 https://www.lorealparis.pt/rouge-signature/batom-liquido-mate-115-i-am-worth-it?tryon=true
 https://functionone.com.br/blog/teams-oferece-nova-ferramenta-maquiagem-virtual-feita-por-ai/
 https://www.maybelline.com.br/virtual-try-on
+
+EDUCAÇÃO: 
+https://www.cospaces.io/ar-vr
