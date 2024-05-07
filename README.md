@@ -12,3 +12,4 @@ https://www.hidracor.com.br/simulador-de-ambientes/
 
 BELEZA (PRODUTOS E SERVIÇOS):
 https://revistapegn.globo.com/Mulheres-empreendedoras/noticia/2022/03/empreendedora-cria-startup-que-usa-realidade-aumentada-para-tutoriais-de-maquiagem-e-skin-care.html
+https://www.lorealparis.pt/rouge-signature/batom-liquido-mate-115-i-am-worth-it?tryon=true
