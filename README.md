@@ -21,3 +21,7 @@ https://www.cospaces.io/ar-vr
 
 MUSEU:
 https://artsandculture.google.com/project/pocket-gallery
+
+Amazon AR: Um aplicativo que permite aos clientes visualizar produtos da Amazon em suas próprias casas antes de comprá-los. O aplicativo utiliza a RA para sobrepor os produtos no ambiente real, permitindo que os clientes vejam como eles ficariam em diferentes espaços. https://www.amazon.com/products
+
+
